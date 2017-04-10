@@ -83,6 +83,9 @@
 	line-height: 1;
 	margin: 5px 0 0 0;
 	color: #3b393d;
+	background-Color:rgba(0,0,0,0.7);
+	padding:10px;
+	text-align:center
 }
 
 .card__container--closed .card__title {
@@ -243,11 +246,11 @@ a:focus {
 }
 
 .body a {
-	color: #4f4c4c;
+	color: #ecf0f1;
 }
 
 .body .header h1 span {
-	color: #4f4c4c;
+	color: #ecf0f1;
 }
 
 .hidden {
@@ -269,6 +272,10 @@ a:focus {
 	font-weight: 400;
 	line-height: 1.2;
 	margin: .5em 0 0;
+}
+
+.header h1 {
+	color: #ecf0f1;
 }
 
 .header h1 span {

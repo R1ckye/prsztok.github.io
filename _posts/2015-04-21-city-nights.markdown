@@ -1,5 +1,5 @@
 ---
-title:  "Nobody else was around."
+title:  "PRSZT"
 subtitle: "A Beautiful shot during the night."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
